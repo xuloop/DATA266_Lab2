@@ -48,7 +48,6 @@ Conclusion
 
 Comparing the two models, the Langchain RAG implementation achieved a higher BERTScore of 0.69341 compared to the previous RAG's 0.61794. This performance difference likely stems from distinct technical approaches: The previous RAG relies on hybrid embeddings combining SentenceTransformer dense vectors with TF-IDF sparse representations specifically optimized for economic text, while the multimodal Langchain system leverages OpenAI's embedding models and GPT-4o's vision capabilities to process both textual content and visual elements like charts and graphs. The Langchain approach's ability to interpret visual economic data alongside text appears to provide a meaningful advantage in addressing economic questions that often depend on data visualization for complete understanding.
 
-.
 Part 2	
 
 Fine-Tuning Stable Diffusion for Image Generation
