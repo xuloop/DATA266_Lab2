@@ -1,0 +1,38 @@
+ID,Text,Image
+1,"The global economic crisis around 2008 was sparked by a financial crisis that originated in the United States. Key factors included a sharp decline in housing prices, a collapse in stock prices, and a significant reduction in consumer and firm spending due to fears of a potential Great Depression. The crisis quickly spread globally through trade and financial channels, leading to a worldwide recession. U.S. banks repatriated funds, causing financial issues in other countries, and decreased U.S. imports affected global exports and output. Despite efforts by the U.S. government and the Federal Reserve to mitigate the crisis, the global economy experienced significant downturns, with advanced economies seeing their lowest growth rates since the Great Depression.",0
+2,"We should be concerned about rising unemployment rates for several reasons:
+
+1. **Economic Output**: High unemployment indicates that the economy is operating below its potential, leading to lower aggregate output. This means that the economy is not utilizing its resources efficiently, which can result in slower economic growth.
+
+2. **Inflation Dynamics**: As noted in the text, when unemployment is above a certain level (around 6% in the given context), inflation tends to decrease. While low inflation might seem beneficial, it can also signal weak demand and economic stagnation, which can be harmful in the long run.
+
+3. **Social and Economic Costs**: High unemployment can lead to increased poverty, reduced consumer spending, and higher government spending on social welfare programs. This can strain public finances and reduce overall economic well-being.
+
+4. **Potential for Economic Overheating**: While the text mentions concerns about overheating when unemployment is too low, persistently high unemployment can lead to structural issues in the labor market, making it difficult to reduce unemployment without causing inflationary pressures when the economy eventually recovers.
+
+Overall, maintaining a balanced unemployment rate is crucial for achieving sustainable economic growth, low inflation, and social stability.",0
+3,"Economists measure economic growth without the distortion of price changes by using the concept of ""real GDP."" Real GDP is calculated by evaluating the quantities of goods and services produced in an economy using a constant set of prices, typically from a base year. This process removes the effects of inflation or deflation, allowing for a more accurate comparison of economic output over time.
+
+To further refine this measurement, the method of ""chained GDP"" is used. This involves:
+
+1. Calculating real GDP for two consecutive years using the prices from each year as a common set of prices.
+2. Averaging the growth rates obtained from these calculations to get a more accurate measure of real GDP growth.
+3. Constructing an index for the level of real GDP by chaining these growth rates over time, starting from an arbitrary base year where real GDP equals nominal GDP.
+
+This method ensures that the prices used to evaluate real GDP are relevant to the years being compared, avoiding the need to frequently change the base year and thus preventing the rewriting of economic history.",0
+4,"The 2009 recession had a significant impact on the world economy. According to the data, world output growth dropped to -0.1% in 2009. Advanced economies experienced a more severe contraction with a growth rate of -3.7%, while emerging and developing economies still managed a positive growth rate of 2.8%. This indicates a substantial downturn, particularly in advanced economies.",1
+5,"After the 2008 financial crisis, U.S. unemployment increased dramatically. In 2008, the unemployment rate was 5.8%, but it rose to 9.3% in 2009 and further increased to 9.6% in 2010. The high unemployment rate persisted, with rates of 9.1% in 2011 and 9.0% in 2012. This indicates that the crisis had a significant and prolonged impact on employment in the United States.",0
+6,"Before the crisis, from 2000 to 2007, China's economy grew at an average annual rate of 10.5%. During the crisis years, the growth rates were as follows:
+
+- 2008: 9.6%
+- 2009: 9.2%
+- 2010: 10.3%
+- 2011: 9.5%
+- 2012: 9.0%
+
+Despite the global financial crisis, China's economy maintained relatively high growth rates, largely due to a major fiscal expansion and increased public investment by the Chinese government.",0
+7,"The 2008 financial crisis affected stock markets globally, not just in the U.S. According to Figure 1-1, stock prices in the United States, the Euro area, and emerging economies all experienced significant declines by the end of 2008. This indicates that the crisis had a widespread impact on global stock markets.",2
+8,"Fast economic growth does not always mean fewer people out of work in the U.S., but there is a general relationship between the two. According to Okun's Law, there is a negative relationship between output growth and changes in the unemployment rate. Specifically, an increase in the growth rate of 1% is associated with a decrease in the unemployment rate by roughly 0.4%. However, this relationship is not absolute, as other factors can influence unemployment, such as changes in the labor force and productivity. Additionally, if the growth rate is not high enough to exceed the sum of labor force growth and productivity growth (around 3% in the U.S.), unemployment may not decrease. Furthermore, very low unemployment can lead to inflationary pressures, as described by the Phillips Curve. Therefore, while fast economic growth often leads to lower unemployment, it is not a guaranteed outcome.",0
+9,"Consumer prices and overall economic prices in the U.S. are not always in sync. While the Consumer Price Index (CPI) and the GDP deflator generally move together, there are exceptions. For instance, in 1979 and 1980, the CPI increased significantly more than the GDP deflator due to a sharp rise in the price of imported goods, like oil, which affected consumer prices more than the prices of domestically produced goods. Therefore, while they often align, external factors such as changes in import prices can cause discrepancies between consumer prices and overall economic prices.",0
+10,"Europe struggled with jobs even before the crisis due to low output growth, tight bank lending, and declining housing prices, which affected consumption and investment. After the crisis, unemployment in the Euro area increased significantly, as shown in the graph, and remained high. The crisis also led to large budget deficits and concerns about public debt, making economic recovery more challenging.",3
+11,"China managed to maintain strong growth during the 2008 financial crisis primarily due to a significant fiscal expansion by the government. This included a major increase in public investment, which helped offset the adverse effects of slowed exports. The Chinese government also focused on high capital accumulation, with an investment rate exceeding 40% of output, and rapid technological progress by encouraging foreign firms to relocate and produce in China. These strategies contributed to sustained demand and output growth, despite the global economic downturn.",0
